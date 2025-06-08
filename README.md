@@ -49,17 +49,6 @@ Below are some sample business questions that need to be addressed.
    b. Which products (top10) are maximum rated & minimum rated?
    
    c. Average rating by location, seller, product, category, month, etc.
-   
-
-
-
-
-
-
-
-
-
-
 
 
 
